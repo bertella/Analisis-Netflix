@@ -14,6 +14,6 @@
   </ol>
 
   <h2>Análisis 📊</h2>
-   <p>Desde cuánto tiempo he tenido Netflix hasta cuánto he gastado, dedico un tiempo a analizar mi comportamiento de visualización. y otras insigths mas!</p>
+   <p>¿Desde cuánto tiempo he tenido Netflix ?, ¿cuánto he gastado ?,afecto el confinamiento el consumo,que años son los que mas fue utilizada la plataforma?,  , dedico un tiempo a analizar mi comportamiento de visualización. y otras insigths mas!</p>
 
     
